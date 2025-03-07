@@ -46,7 +46,7 @@ export function HomePage() {
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-3xl md:text-5xl lg:text-6xl font-bold mb-6 md:mb-8 leading-tight animate-fade-in">
-              Transform Your Business with Erycan Tech Solutions
+              Transform Your Business with Arishya Software 
             </h1>
             <p className="text-lg md:text-xl lg:text-2xl mb-8 md:mb-12 opacity-90 leading-relaxed">
               Experience enterprise-grade cloud infrastructure powered by cutting-edge AI technology
