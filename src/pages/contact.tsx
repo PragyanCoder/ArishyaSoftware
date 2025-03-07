@@ -63,7 +63,7 @@ ${formData.message}
                   <Mail className="h-6 w-6 mt-1" />
                   <div>
                     <h3 className="font-semibold">Email</h3>
-                    <p className="text-purple-100">contact@arishya.software</p>
+                    <p className="text-purple-100">arishyathakur@arishya.software</p>
                   </div>
                 </div>
 
@@ -71,7 +71,7 @@ ${formData.message}
                   <Phone className="h-6 w-6 mt-1" />
                   <div>
                     <h3 className="font-semibold">Phone</h3>
-                    <p className="text-purple-100">+91 7355158565</p>
+                    <p className="text-purple-100">+91 6294584859</p>
                   </div>
                 </div>
 
